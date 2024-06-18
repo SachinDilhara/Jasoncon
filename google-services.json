@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "658363229702",
+    "firebase_url": "https://virtual-zoo-424ae-default-rtdb.firebaseio.com",
+    "project_id": "virtual-zoo-424ae",
+    "storage_bucket": "virtual-zoo-424ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658363229702:android:3af97d1a010afad545c587",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfr_gRQ-zkloOj5eXdjkNLp4Z0b-vES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
